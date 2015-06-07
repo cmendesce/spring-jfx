@@ -8,6 +8,15 @@
   <name>spring-jfx</name>
   <url>http://maven.apache.org</url>
   <dependencies>
+
+    <!-- spring -->
+    <dependency>
+      <groupId>org.springframework</groupId>
+      <artifactId>spring-context</artifactId>
+      <version>4.1.6.RELEASE</version>
+    </dependency>
+
+    <!-- test -->
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
